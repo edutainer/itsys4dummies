@@ -1,4 +1,4 @@
 # itsys4dummies
-##Leírás:
+## Leírás:
 Hungarian introduction to IT systems and step by step examples.
 
